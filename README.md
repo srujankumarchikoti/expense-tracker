@@ -27,7 +27,7 @@ The Expense Tracker Application is a Java-based web application developed using 
 
     ```bash
     [git clone https://github.com/your-username/expense-tracker.git]
-    cd springboot-mongodb-Mongock
+    cd expense-tracker
     ```
 
 2. **Build the application:**
